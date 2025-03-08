@@ -1,0 +1,50 @@
+ End point/Base url :Address where api is hosted on the server
+
+GET : when u want to extract some data from server 
+
+POST : when u want to create something on server 
+
+PUt : when u have to update some information present on the server .
+
+Delete : When u want to delete someting from server .
+
+--
+Video 5
+
+#What are resources 
+Resources represent API/collections  which can access from the server .
+Google.com/maps
+Google.com/search
+google.com/images
+
+#path parameter :
+path parameter are vaiable parts of URL path . They are typically used to point to a specific resouce within the collections 
+
+https: amazon.com/orders/112 
+112 is path parameter in orders resouces 
+
+
+# Query parameter 
+it is identify by  ? mark 
+
+Headers/Cookies 
+Header are additional deatils in api to process our request
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
