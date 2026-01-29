@@ -1,7 +1,7 @@
 
 How to paramerise vale in json body 
 
-"" +variableName  + ""
+" +variableName  + "
 
 
-2. 
+2. if u want to add multiple query paramter then double add karo 
