@@ -1,0 +1,40 @@
+it is a lanuage the describe the softwear behaviur 
+Gherkin is a language used in BDD to describe software behavior in a human-readable format using keywords like Given, When, and Then
+ex- pop up message is displayed when user clicked on button 
+
+You wrote:
+
+"popup message is displayed when user clicked on button"
+
+👉 Convert into proper Gherkin:
+
+Feature: Button click functionality
+
+  Scenario: Verify popup message
+    Given user is on homepage
+    When user clicks on button
+    Then popup message should be displayed
+
+Keywords in Gherkin
+Feature → What functionality you are testing
+Scenario → One test case
+Given → Initial condition
+When → Action
+Then → Expected result
+Scenarios outline 
+feature file 
+Step defination 
+--
+Examples:
+Feature
+Scenario
+Given
+When
+Then
+And
+But
+Scenario Outline
+Examples
+--
+
+testcases are scenari in cucumber 
