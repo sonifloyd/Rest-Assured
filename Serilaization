@@ -1,0 +1,13 @@
+Java object → JSON (ya XML) me convert karna, taki API request me bhej sako.
+
+1. Serialization kya hota hai?
+User user = new User("Soni", "Kumari");
+
+Isko convert karna:
+
+{
+  "firstName": "Soni",
+  "lastName": "Kumari"
+}
+
+👉 Ye conversion = Serialization
